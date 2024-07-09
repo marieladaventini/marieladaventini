@@ -22,7 +22,6 @@ Feel free to reach out to me for potential collaborations or just to exchange id
 - LinkedIn https://www.linkedin.com/in/marieladaventini/
 - Email mdaventini@hotmail.com (Retro is the new modern!)
 
-Here's to coding the next chapter of this digital saga together!
 
 <!---
 marieladaventini/marieladaventini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
